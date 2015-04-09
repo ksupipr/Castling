@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Player\Scripts\Control\RaycastShoot.cs">
+    <Files>
+      <File FileName="Assets\Player\Scripts\Control\FPSWalkerEnhanced.cs" Line="146" Column="3" />
+      <File FileName="Assets\Player\Scripts\Control\ShaflCam.cs" Line="37" Column="1" />
+      <File FileName="Assets\Prefs\ObjectEvet.cs" Line="16" Column="1" />
+      <File FileName="Assets\Prefs\endTheGame.cs" Line="14" Column="13" />
+      <File FileName="Assets\Bots\Scripts\RocketLauncher.js" Line="21" Column="17" />
+      <File FileName="Assets\Prefs\Menu.js" Line="6" Column="19" />
+      <File FileName="Assets\Player\Scripts\Control\RaycastShoot.cs" Line="21" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
